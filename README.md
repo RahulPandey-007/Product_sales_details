@@ -22,5 +22,5 @@ In this sales details project we have a company's dataset which contains :
     e. Top 10 high sales by customer 
     f. Top 10 high sales by customer(By Dense Rank Function)
     
-The code file(sql file) and csv file is also shared.
+The code file(sql file) and the csv file is also shared.
 
