@@ -1,6 +1,6 @@
 # Product_sales_details- MySQL 
 
-In this sales details project we have a company's dataset which contains:
+In this sales details project we have a company's dataset which contains :
   a. Customer Details file   
   b. Product Details file  
   c. Region file  
@@ -10,11 +10,11 @@ In this sales details project we have a company's dataset which contains:
    file with defining of primary and foreign key relationship(one to many)
    between Parent tables (Customer_details, Product_details, Region) and 
    Child table(Sales_details).
-2. I have added some new columns in Sales_details(Child table) for further calculations:
+2. I have added some new columns in Sales_details(Child table) for further calculations :
     a. Total Price
     b. Total Cost
     c. Profit
-3. I have created some stored procedure containing details of:
+3. I have created some stored procedure containing details of :
     a. Regional Sales details
     b. Customer wise Sales value
     c. Sales details according to customer, region, product
