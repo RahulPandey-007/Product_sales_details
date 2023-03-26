@@ -8,7 +8,7 @@ In this sales details project we have a company's dataset which contains :
   
 1. First,The tables have created in accordance to store the data of respective files by 
    defining primary and foreign key relations(one to many) between Parent tables 
-   (Customer_details, Product_details, Region) and Child table (Sales_details).
+   (Customer_details, Product_details, Region, order_date) and Child table (Sales_details).
    
 2. I have added some new columns in Sales_details(Child table) for further calculations :
     a. Total Price
@@ -22,6 +22,8 @@ In this sales details project we have a company's dataset which contains :
     d. Top 10 high sales Product
     e. Top 10 high sales by customer 
     f. Top 10 high sales by customer(By Dense Rank Function)
+    g. Month wise product sales
+    h. Region wisee product sales
     
 The code file(sql file) and the csv file is also shared.
 
