@@ -22,8 +22,8 @@ In this sales details project we have a company's dataset which contains :
     d. Top 10 high sales Product
     e. Top 10 high sales by customer 
     f. Top 10 high sales by customer(By Dense Rank Function)
-    g. Month wise product sales
-    h. Region wisee product sales
+    g. Month wise product sales (By creating Order date Table)
+    h. Region wise product sales
     
 The code file(sql file) and the csv file is also shared.
 
