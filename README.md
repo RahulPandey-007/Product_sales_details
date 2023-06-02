@@ -1,6 +1,6 @@
 # Product_sales_details- MySQL 
 
-In this sales details project we have a company's dataset which contains: 
+In this sales details project we have a company's dataset which contains:  
   a. Customer Details file   
   b. Product Details file  
   c. Region file  
